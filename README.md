@@ -1,4 +1,4 @@
-# lab01ChuyenDeThiGiacMayTinh_CH1702039
+# lab01ChuyenDeThiGiacMayTinh_CH1702039_Lê Nguyễn Sơn Nguyên
 Bài lab01 cài đặt và sử dụng keras
 
 (PHẦN CÀI ĐẶT ĐƯỢC THỰC HIỆN TRÊN WINDOWS 10, IDE PYCHARM)
