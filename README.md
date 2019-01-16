@@ -1,2 +1,17 @@
 # lab01ChuyenDeThiGiacMayTinh_CH1702039
 Bài lab01 cài đặt và sử dụng keras
+
+(PHẦN CÀI ĐẶT ĐƯỢC THỰC HIỆN TRÊN WINDOWS 10, IDE PYCHARM)
+YÊU CẦU VỀ PHẦN MỀM:
+
+1/ PYTHON 3.5.7
+
+2/ TENSORFLOW 1.12.0
+
+3/ KERAS 2.2.4
+
+4/ PILLOW 5.4.1
+
+VIỆC CÀI ĐẶT CÁC GÓI PHẦN MỀM TRÊN NÊN THEO THỨ TỰ ĐÃ NÊU, THỰC HIỆN BẰNG LỆNH PIP INSTALL (SEARCH GOOGLE ĐỂ THÊM THÔNG TIN). KHI CÓ LỖI XẢY RA, LƯU Ý KIỂM TRA LẠI TÍNH TƯƠNG THÍCH CỦA CÁC PHIÊN BẢN TRÊN.
+
+KẾT QUẢ MÀN HÌNH LƯU TRONG FILE ẢNH KẾT QUẢ
